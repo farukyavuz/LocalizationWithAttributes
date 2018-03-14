@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  LocalizationWithAttributes
+
+  Created by Faruk Yavuz on 14.03.2018.
+  Copyright © 2018 Faruk Yavuz. All rights reserved.
+*/
+
+"first_name" = "TR Faruk";
+"last_name" = "TR Yavuz";
+"show_alert" = "TR Show Alert";
+"alert_title" = "TR Alert Title";
+"alert_message" = "TR Alert Message";
+"alert_cancel_button" = "TR Alert Cancel";
+"alert_signup_button" = "TR Alert Signup";
